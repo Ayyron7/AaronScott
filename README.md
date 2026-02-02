@@ -1,5 +1,5 @@
 # AaronScott
-# Hi, I'm Aaron 👋
+# Hello! my name is Aaron and welcome! 👋
 
 ## 🎓 About Me
 - 🏫 I'm a Computer Science student at Northern Illinois University
@@ -14,7 +14,7 @@
 
 ## 📂 Featured Projects
 - **[Towers of Hanoi](link)** - Recursive algorithm implementation in C++
-- **[eight-queens-recursive]** - Brief description
+- **[eight-queens-recursive]** - Recursive backtracking solution to the Eight Queens problem in C++
 
 ## 📫 Connect With Me
 https://www.linkedin.com/in/aaron-scott-aa6a44358/
