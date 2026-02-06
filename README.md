@@ -13,8 +13,9 @@
 **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Recursion, Mainframe
 
 ## 📂 Featured Projects
-- **[Towers of Hanoi](link)** - Recursive algorithm implementation in C++
+- **[Towers of Hanoi]** - Recursive algorithm implementation in C++
 - **[eight-queens-recursive]** - Recursive backtracking solution to the Eight Queens problem in C++
+- **[and more]!
 
 ## 📫 Connect With Me
 https://www.linkedin.com/in/aaron-scott-aa6a44358/
