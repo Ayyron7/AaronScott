@@ -4,11 +4,11 @@
 ## 🎓 About Me
 - 🏫 I'm a Computer Science student at Northern Illinois University
 - 💻 Passionate about algorithms, data structures, and software development
-- 🌱 Currently learning: C, C++, HTML, SQL, Python, etc. and still learning more!
+- 🌱 Current skills: C, C++, HTML, SQL, Python, Mainframe etc. and still learning more!
 - 📍 DeKalb, Illinois
 
 ## 🛠️ Technical Skills
-**Languages:** C++, HTML, Java, SQL, C, Python  
+**Languages:** C++, HTML, Java, SQL, C, Python, Assembly  
 **Tools:** Git, Linux, VS Code, Unix, Dev C++  
 **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Recursion, Mainframe
 
